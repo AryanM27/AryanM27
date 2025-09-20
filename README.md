@@ -6,10 +6,11 @@ My work bridges research and real-world applications—ranging from **deep learn
 I’m also the founder of **FairCite**, a platform redefining how publishers engage with the AI economy. FairCite combines **probabilistic micropayments** with an advanced **analytics dashboard** that provides bot detection, site-level insights, and subscription management tools, helping publishers capture fair value from AI-driven web traffic.
 
 ### 🔭 What I’m Working On
+- Designing and scaling the **FairCite Dashboard** (React, TypeScript, Prisma, PostgreSQL)  
 - Training and evaluating deep learning models (PyTorch, TensorFlow, Keras)  
 - Building large-scale forecasting pipelines (Spark, SQL)  
 - Developing real-time embedded applications (C/C++ on ARM Cortex-M)  
-- Designing and scaling the **FairCite Dashboard** (React, TypeScript, Prisma, PostgreSQL)  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-mamidwar-663147200/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmamidwar27@gmail.com) 
