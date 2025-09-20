@@ -3,7 +3,7 @@
 I’m a Computer Engineering graduate student at **NYU Tandon** with experience building systems across **AI, big data, and embedded platforms**.  
 My work bridges research and real-world applications—ranging from **deep learning models and data pipelines** to **low-level C/C++ systems on ARM microcontrollers**.  
 
-I’m also the founder of **FairCite**, a platform redefining how publishers engage with the AI economy. FairCite combines **probabilistic micropayments** with an advanced **analytics dashboard** that provides bot detection, site-level insights, and subscription management tools, helping publishers capture fair value from AI-driven web traffic.
+I’m also the founding member at **FairCite**, a platform redefining how publishers engage with the AI economy. FairCite combines **probabilistic micropayments** with an advanced **analytics dashboard** that provides bot detection, site-level insights, and subscription management tools, helping publishers capture fair value from AI-driven web traffic.
 
 ### 🔭 What I’m Working On
 - Designing and scaling the **FairCite Dashboard** (React, TypeScript, Prisma, PostgreSQL)  
