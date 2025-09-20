@@ -1,3 +1,7 @@
+# Hi, I'm Aryan 👋
+
+I'm a Computer Engineering graduate student at NYU Tandon, working on projects at the intersection of **machine learning, embedded systems, and big data**.  
+I also founded **FairCite**, a platform that helps publishers monetize AI-driven traffic through **probabilistic micropayments** and a powerful **analytics dashboard** for bot detection, site-level insights, and subscription management.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-mamidwar-663147200/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmamidwar27@gmail.com) 
