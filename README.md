@@ -1,16 +1,24 @@
 # Hi, I'm Aryan 👋
 
-I’m a Computer Engineering graduate student at **NYU Tandon** with experience building systems across **AI, big data, and embedded platforms**.  
-My work bridges research and real-world applications—ranging from **deep learning models and data pipelines** to **low-level C/C++ systems on ARM microcontrollers**.  
+I'm a **Founding Member at FairCite** and a Computer Engineering graduate of **NYU Tandon (MS, 2026)**.  
+I build **backend systems, data pipelines, and applied-AI tooling** mostly in Python and TypeScript, with Go and PostgreSQL close behind.
 
-I’m also the founding member at **FairCite**, a platform redefining how publishers engage with the AI economy. FairCite combines **probabilistic micropayments** with an advanced **analytics dashboard** that provides bot detection, site-level insights, and subscription management tools, helping publishers capture fair value from AI-driven web traffic.
+At **FairCite**, I help publishers engage with the AI economy: an **analytics dashboard** that surfaces AI-crawler traffic and site-level insights, plus a **probabilistic micropayment** system that lets publishers capture fair value from AI-driven web traffic.
 
-### 🔭 What I’m Working On
-- Designing and scaling the **FairCite Dashboard** (React, TypeScript, Prisma, PostgreSQL)  
-- Training and evaluating deep learning models (PyTorch, TensorFlow, Keras)  
-- Building large-scale forecasting pipelines (Spark, SQL)  
-- Developing real-time embedded applications (C/C++ on ARM Cortex-M)  
+### 🔭 What I'm Working On
+- Building FairCite's **settlement backend and SDKs across 8 languages/runtimes** (Node.js, Python, Go, Rust/WASI, C++, Java, PHP, Ruby)
+- Scaling the **FairCite Dashboard** and its analytics pipeline over **10M+ records** (Next.js, TypeScript, Prisma, PostgreSQL, AWS)
+- Evaluating **LLM-as-judge systems** — [SafeShip](https://github.com/AryanM27/SafeShip), an LLM-assisted pull-request policy gate with an eval harness
+- Building **[Threadline](https://github.com/AryanM27/threadline)**, a computer-use automation system
 
+### 📌 Selected Projects
+- **[SafeShip](https://github.com/AryanM27/SafeShip)** — LLM-assisted PR policy gate with a GitHub Action and an eval harness comparing judging architectures (Python, LiteLLM)
+- **[PhotoPrism Semantic Search](https://github.com/AryanM27/photoprism-proj03)** — distributed image-ingestion pipeline and natural-language search integration; I led data and integration (Celery, RabbitMQ, Qdrant, Go, Vue)
+- **[NYC Subway Ridership Analytics](https://github.com/AryanM27/Predictive_Analytics_for_NYC_Subway_Ridership)** - PySpark pipeline over 25M MTA records with weather enrichment and a LightGBM estimation model (PySpark, LightGBM, Streamlit)
+
+### 📄 Publications
+- *Image Forensics — Analysis of Manipulated Images* — Springer ICICV 2024 · [DOI](https://doi.org/10.1007/978-981-97-6995-7_28)
+- *An Overview of Guidelines on Dark Patterns* — CHI 2024 DDPCHI Workshop · [Paper](https://ceur-ws.org/Vol-3720/paper10.pdf)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-mamidwar-663147200/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmamidwar27@gmail.com) 
