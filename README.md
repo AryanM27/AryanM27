@@ -1,13 +1,13 @@
 # Hi, I'm Aryan 👋
 
-I'm a **Founding Member at FairCite** and a Computer Engineering graduate of **NYU Tandon (MS, 2026)**.  
+I'm a **Founding Member at Stealth Startup** and a Computer Engineering graduate of **NYU Tandon (MS, 2026)**.  
 I build **backend systems, data pipelines, and applied-AI tooling** mostly in Python and TypeScript, with Go and PostgreSQL close behind.
 
-At **FairCite**, I help publishers engage with the AI economy: an **analytics dashboard** that surfaces AI-crawler traffic and site-level insights, plus a **probabilistic micropayment** system that lets publishers capture fair value from AI-driven web traffic.
+At the **Stealth Startup**, I help publishers engage with the AI economy: an **analytics dashboard** that surfaces AI-crawler traffic and site-level insights, plus a **probabilistic micropayment** system that lets publishers capture fair value from AI-driven web traffic.
 
 ### 🔭 What I'm Working On
-- Building FairCite's **settlement backend and SDKs across 8 languages/runtimes** (Node.js, Python, Go, Rust/WASI, C++, Java, PHP, Ruby)
-- Scaling the **FairCite Dashboard** and its analytics pipeline over **10M+ records** (Next.js, TypeScript, Prisma, PostgreSQL, AWS)
+- Building **settlement backend and SDKs across 8 languages/runtimes** (Node.js, Python, Go, Rust/WASI, C++, Java, PHP, Ruby)
+- Scaling the ** Dashboard** and its analytics pipeline over **10M+ records** (Next.js, TypeScript, Prisma, PostgreSQL, AWS)
 - Evaluating **LLM-as-judge systems** - [SafeShip](https://github.com/AryanM27/SafeShip), an LLM-assisted pull-request policy gate with an eval harness
 - Building **[Threadline](https://github.com/AryanM27/threadline)**, a computer-use automation system
 
