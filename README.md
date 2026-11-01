@@ -7,7 +7,7 @@ At the **Stealth Startup**, I help publishers engage with the AI economy: an **a
 
 ### 🔭 What I'm Working On
 - Building **settlement backend and SDKs across 8 languages/runtimes** (Node.js, Python, Go, Rust/WASI, C++, Java, PHP, Ruby)
-- Scaling the ** Dashboard** and its analytics pipeline over **10M+ records** (Next.js, TypeScript, Prisma, PostgreSQL, AWS)
+- Scaling the **Dashboard** and its analytics pipeline over **10M+ records** (Next.js, TypeScript, Prisma, PostgreSQL, AWS)
 - Evaluating **LLM-as-judge systems** - [SafeShip](https://github.com/AryanM27/SafeShip), an LLM-assisted pull-request policy gate with an eval harness
 - Building **[Threadline](https://github.com/AryanM27/threadline)**, a computer-use automation system
 
